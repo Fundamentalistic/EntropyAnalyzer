@@ -1,3 +1,4 @@
 ﻿  WaterLayersDefiner.c
-C:\Users\softc\source\repos\EntropyAnalyzer\WaterLayersDefiner\WaterLayersDefiner.c(22,7): warning C4101: line: неиспользованная локальная переменная
-  WaterLayersDefiner.vcxproj -> C:\Users\softc\source\repos\EntropyAnalyzer\x64\Debug\WaterLayersDefiner.exe
+C:\Users\79960\source\repos\EntropyAnalyzer\WaterLayersDefiner\WaterLayersDefiner.c(102): warning C4715: protein_size: значение возвращается не при всех путях выполнения
+C:\Users\79960\source\repos\EntropyAnalyzer\WaterLayersDefiner\WaterLayersDefiner.c(180): warning C4715: read_protein: значение возвращается не при всех путях выполнения
+  WaterLayersDefiner.vcxproj -> C:\Users\79960\source\repos\EntropyAnalyzer\x64\Debug\WaterLayersDefiner.exe
