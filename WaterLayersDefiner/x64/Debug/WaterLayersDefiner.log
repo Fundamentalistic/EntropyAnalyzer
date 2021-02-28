@@ -1,0 +1,3 @@
+﻿  WaterLayersDefiner.c
+C:\Users\softc\source\repos\EntropyAnalyzer\WaterLayersDefiner\WaterLayersDefiner.c(22,7): warning C4101: line: неиспользованная локальная переменная
+  WaterLayersDefiner.vcxproj -> C:\Users\softc\source\repos\EntropyAnalyzer\x64\Debug\WaterLayersDefiner.exe
