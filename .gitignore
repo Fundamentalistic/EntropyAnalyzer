@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/EntropyAnalyzer/v16/Browse.VC.opendb
+Debug
+x64
+EntropyAnalyzer\x64
+EntropyAnalyzer\Debug
+EntropyAnalyzer\Release
+WaterLayersDefiner\x64
+WaterLayersDefiner\Debug
+WaterLayersDefiner\Release
